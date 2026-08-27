@@ -2,9 +2,8 @@
 
 Turn Quantum Design MPMS3 `.dat` files into publication-ready magnetometry plots.
 
-![Example MvT data](EXAMPLE_MvT_100Oe_PerUnitFormula_XvT.png)
-![Example MvH data in muB Per Unit Formula](EXAMPLE_MvH_muB-PerUnitFormula.png)
-
+<img src="EXAMPLE_MvT_100Oe_PerUnitFormula_XvT.png" width="50%">
+<img src="EXAMPLE_MvH_muB-PerUnitFormula.png" width="50%">
 
 `plot_mpms.py` reads your MPMS3 data and can produce:
 
